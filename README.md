@@ -13,7 +13,7 @@
 ### Example
 
 ```python
-from exrates import *
+from infinitytools import currency
 
 check = currency()
 result = check.get('USD')
