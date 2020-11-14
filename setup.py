@@ -1,11 +1,11 @@
 import setuptools
 
 setuptools.setup(
-    name="exrates",
+    name="infinitytools",
     version="1.0.0",
     author="infqq",
     description="Tool for Rates",
-    url="https://github.com/Infqq/exrates",
+    url="https://github.com/Infqq/infinitytools",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3.6",
