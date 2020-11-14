@@ -1,4 +1,4 @@
-<h1 align="center">ExRates</h1>
+<h1 align="center">InfinityTools</h1>
     <blockquote>Простая библиотека, которая выдает данные о курсе более простым способом</blockquote>
 </p>
 <hr>
@@ -7,7 +7,7 @@
 1) С помощью установщика pip из GitHub: 
    
    ```sh
-   pip3 install https://github.com/Infqq/exrates/archive/main.zip --upgrade
+   pip3 install https://github.com/Infqq/infinitytools/archive/main.zip --upgrade
    ```
 
 ### Example
