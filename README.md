@@ -11,6 +11,7 @@
    ```
 
 ### Example
+Больше примеров в https://github.com/Infqq/InfinityTools/tree/main/examples
 
 ```python
 from infinitytools import *
