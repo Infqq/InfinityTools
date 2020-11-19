@@ -1,5 +1,5 @@
 <h1 align="center">InfinityTools</h1>
-    <blockquote>Простая библиотека, которая выдает данные о курсе более простым способом</blockquote>
+    <blockquote>Библиотека, содержащая простые утилиты</blockquote>
 </p>
 <hr>
 
