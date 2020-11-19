@@ -13,9 +13,8 @@
 ### Example
 
 ```python
-from infinitytools import currency
+from infinitytools import *
 
 check = currency()
-result = check.get('USD')
-print(result)
+print(check.get('USD'))
 ```
